@@ -1,0 +1,14 @@
+.landing-cta-card {
+    background-color: white;
+    color: black;
+    height: 450px;
+    padding: 20px;
+    margin: 100% 0;
+
+    box-shadow: 0 0 .2rem #fff,
+            0 0 .2rem #fff,
+            0 0 2rem rgba(127, 17, 224, 0.7),
+            0 0 0.8rem rgba(127, 17, 224, 0.7),
+            0 0 2.8rem rgba(127, 17, 224, 0.7),
+            inset 0 0 1.3rem rgba(127, 17, 224, 0.7); 
+}
